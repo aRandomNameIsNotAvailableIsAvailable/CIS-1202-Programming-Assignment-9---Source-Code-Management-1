@@ -17,10 +17,10 @@ int main() {
 
 	// declare variables
 
-	cout << "Hello, World!" << endl;
+	cout << "Hello, Universe!" << endl;
 	
-	// edit these comments and check it within github version control 
-	// 123
+	// these comments have been edited within github 
+	// ABC
 
 	//											+++END MAIN+++
 
